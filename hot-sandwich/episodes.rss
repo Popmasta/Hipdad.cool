@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+<title>Hot Sandwich</title>
+<link>http://hipdad.cool/<link>
+<language>en-us</language>
+<itunes:subtitle>Hip Dad's newest talkshow with Doug and Matt</itunes:subtitle>
+<itunes:author>Hip Dad Radio</itunes:author>
+<itunes:summary>Join Hip Dad DJs Doug and Matt as they explore music and culture from around the world.</itunes:summary>
+<description>Join Hip Dad DJs Doug and Matt as they explore music and culture from around the world.</description>
+<itunes:owner>
+    <itunes:name>Hip Dad Radio</itunes:name>
+    <itunes:email>hipdadradio@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="http://hipdad.cool/static/img/hot-sandwich.jpeg" />
+<itunes:category text="Music"/></itunes:category>
+
+<!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+<item>
+    <title>Hot Sandwich S1E1 - 2/6/19</title>
+    <itunes:summary>Celebrating Bob Marley's birthday, Purple Rain, and the goings on at Hip Dad</itunes:summary>
+    <description>Celebrating Bob Marley's birthday, Purple Rain, and the goings on at Hip Dad</description>
+    <link>http://hipdad.cool</link>
+    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/Hot%20SandwichS1E1-2_6_19.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 10 Feb 2019 18:00:00 +0000</pubDate>
+    <itunes:author>Hip Dad Radio</itunes:author>
+    <itunes:duration>01:02:19</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>http://hipdad.cool</guid>
+</item>
+<!--END REPEAT-->
+   
+</channel>
+</rss>
