@@ -32,6 +32,18 @@
     <itunes:explicit>yes</itunes:explicit>
     <guid>http://hipdad.cool/hot-sandwich#s1e1</guid>
 </item>
+<item>
+    <title>Hot Sandwich S1E2 - 2/9/19</title>
+    <itunes:summary>Spencer Rudnick joins the show. Listen as they talk about music, Hip Dad Events, and life events!</itunes:summary>
+    <description>Spencer Rudnick joins the show. Listen as they talk about music, Hip Dad Events, and life events!</description>
+    <link>http://hipdad.cool/hot-sandwich</link>
+    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HotSandwichS1E2-2_19_19.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Sun, 24 Feb 2019 12:00:00 +0600</pubDate>
+    <itunes:author>Hip Dad Radio</itunes:author>
+    <itunes:duration>00:53:43</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>http://hipdad.cool/hot-sandwich#s1e2</guid>
+</item>
 <!--END REPEAT-->
    
 </channel>
