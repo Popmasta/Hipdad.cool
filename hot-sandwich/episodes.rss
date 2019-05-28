@@ -75,9 +75,9 @@
 
 
 <item>
-    <title>Hot Sandwich S2E1</title>
-    <itunes:summary>Today we have Matt G joining the show. Listen as they talk about music, Hip Dad Events, and life events!</itunes:summary>
-    <description>Today we have Matt G joining the show. Listen as they talk about music, Hip Dad Events, and life events!</description>
+    <title>Hot Sandwich S2E1 - 4/1/2019</title>
+    <itunes:summary>Today we have Matt Geleske joining the show. Listen as they talk about music, Hip Dad Events, and life events!</itunes:summary>
+    <description>Today we have Matt Geleske joining the show. Listen as they talk about music, Hip Dad Events, and life events!</description>
     <link>http://hipdad.cool/hot-sandwich</link>
     <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2e1.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Mon, 1 Apr 2019 23:05:00 +0600</pubDate>
@@ -93,10 +93,10 @@
     <itunes:summary>Today we have Adam Duvall joining as our guest today. Listen as we talk about music, Hip Dad Events,life events, and if you'd rather be really small or tall in this new episode of Hot Sandwich!</itunes:summary>
     <description>Today we have Adam Duvall joining as our guest today. Listen as we talk about music, Hip Dad Events,life events, and if you'd rather be really small or tall in this new episode of Hot Sandwich!</description>
     <link>http://hipdad.cool/hot-sandwich</link>
-    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/" type="audio/mpeg" length=""></enclosure>
-    <pubDate>Mon, 26 May 2019 23:05:00 +0600</pubDate>
+    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2E2.mp3" type="audio/mpeg" length=""></enclosure>
+    <pubDate>Tues, 28 May 2019 23:05:00 +0600</pubDate>
     <itunes:author>Hip Dad Radio</itunes:author>
-    <itunes:duration>0:52:30</itunes:duration>
+    <itunes:duration>0:52:31</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>http://hipdad.cool/hot-sandwich#s2e2</guid>
 </item>
