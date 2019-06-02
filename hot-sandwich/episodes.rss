@@ -79,10 +79,10 @@
     <itunes:summary>Today we have Matt Geleske joining the show. Listen as they talk about music, Hip Dad Events, and life events!</itunes:summary>
     <description>Today we have Matt Geleske joining the show. Listen as they talk about music, Hip Dad Events, and life events!</description>
     <link>http://hipdad.cool/hot-sandwich</link>
-    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2E1.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2E1.mp3" type="audio/mpeg" length=""></enclosure>
     <pubDate>Mon, 1 Apr 2019 23:05:00 +0600</pubDate>
     <itunes:author>Hip Dad Radio</itunes:author>
-    <itunes:duration>01:18:12</itunes:duration>
+    <itunes:duration>01:18:13</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>http://hipdad.cool/hot-sandwich#s2e1</guid>
 </item>
@@ -108,7 +108,7 @@
     <description>Today we have Reid Rinaldi joining as our guest today. Listen as we talk about music, catch you guys up on some past and future Hip Dad Events, and as we talked about some upcoming shows in the Chicago area. Also make sure you stay tuned towards the end of the episode for our thought provoking question brought to us by Reid - All in this new episode of Hot Sandwich!</description>
     <link>http://hipdad.cool/hot-sandwich</link>
     <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2E3.mp3" type="audio/mpeg" length=""></enclosure>
-    <pubDate>Tues, 30 May 2019 23:05:00 +0600</pubDate>
+    <pubDate>Tues, 30 May 2019 12:05:00 +0600</pubDate>
     <itunes:author>Hip Dad Radio</itunes:author>
     <itunes:duration>1:11:39</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
