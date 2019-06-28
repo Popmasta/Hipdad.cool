@@ -34,6 +34,7 @@
 <itunes:category text="Music" />
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
+
 <item>
     <title>Hot Sandwich S1E1 - 2/6/19</title>
     <itunes:summary>Celebrating Bob Marley's birthday, Purple Rain, and the goings on at Hip Dad</itunes:summary>
@@ -46,6 +47,7 @@
     <itunes:explicit>yes</itunes:explicit>
     <guid>http://hipdad.cool/hot-sandwich#s1e1</guid>
 </item>
+
 <item>
     <title>Hot Sandwich S1E2 - 2/9/19</title>
     <itunes:summary>Spencer Rudnick joins the show. Listen as they talk about music, Hip Dad Events, and life events!</itunes:summary>
