@@ -71,11 +71,11 @@
     <guid>http://hipdad.cool/hot-sandwich#s1e3</guid>
 </item>
 <item>
-    <title>Hot Sandwich S2E1 - 4/1/19</title>
+    <title>Hot Sandwich S2E1 - 4/01/19</title>
     <itunes:summary>Today we have Matt Geleske joining the show. Listen as they talk about music, Hip Dad Events, and life events!</itunes:summary>
     <description>Today we have Matt Geleske joining the show. Listen as they talk about music, Hip Dad Events, and life events!</description>
     <link>http://hipdad.cool/hot-sandwich</link>
-    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2E1.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2E1.mp3.zip" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Mon, 1 Apr 2019 12:00:00 +0600</pubDate>
     <itunes:author>Hip Dad Radio</itunes:author>
     <itunes:duration>01:18:13</itunes:duration>
@@ -99,12 +99,24 @@
     <itunes:summary>Today we have Reid Rinaldi joining as our guest today. Listen as we talk about music, catch you guys up on some past and future Hip Dad Events, and as we talked about some upcoming shows in the Chicago area. Also make sure you stay tuned towards the end of the episode for our thought provoking question brought to us by Reid - All in this new episode of Hot Sandwich!</itunes:summary>
     <description>Today we have Reid Rinaldi joining as our guest today. Listen as we talk about music, catch you guys up on some past and future Hip Dad Events, and as we talked about some upcoming shows in the Chicago area. Also make sure you stay tuned towards the end of the episode for our thought provoking question brought to us by Reid - All in this new episode of Hot Sandwich!</description>
     <link>http://hipdad.cool/hot-sandwich</link>
-    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2E3.mp3" type="audio/mpeg" length=""></enclosure>
+    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2E3.mp3.zip" type="audio/mpeg" length=""></enclosure>
     <pubDate>Tues, 30 May 2019 12:05:00 +0600</pubDate>
     <itunes:author>Hip Dad Radio</itunes:author>
     <itunes:duration>1:11:39</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>http://hipdad.cool/hot-sandwich#s2e3</guid>
+</item>
+<item>
+    <title>Hot Sandwich S2E4 - 6/02/19</title>
+    <itunes:summary>On this episode of Hot Sandwich we have another fellow Hip Dad DJ joining us, Will Rudnick. This is a good one, as we talk some music and the updates of DJ Will's new venture into Hip Dad Radio.</itunes:summary>
+    <description>On this episode of Hot Sandwich we have another fellow Hip Dad DJ joining us, Will Rudnick. This is a good one, as we talk some music and the updates of DJ Will's new venture into Hip Dad Radio.</description>
+    <link>http://hipdad.cool/hot-sandwich</link>
+    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2E4.mp3" type="audio/mpeg" length=""></enclosure>
+    <pubDate>Sun, 02 Jun 2019 12:05:00 +0600</pubDate>
+    <itunes:author>Hip Dad Radio</itunes:author>
+    <itunes:duration>1:06:31</itunes:duration>
+    <itunes:explicit>yes</itunes:explicit>
+    <guid>http://hipdad.cool/hot-sandwich#s2e1</guid>
 </item>
 
 
