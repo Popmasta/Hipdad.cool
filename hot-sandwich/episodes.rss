@@ -35,11 +35,11 @@
 
 <!--REPEAT THIS BLOCK FOR EACH EPISODE-->
 <item>
-    <title>Hot Sandwich S1E1 - 2/6/19</title>
+    <title>Hot Sandwich S1E1 - 2/10/19</title>
     <itunes:summary>Celebrating Bob Marley's birthday, Purple Rain, and the goings on at Hip Dad</itunes:summary>
     <description>Celebrating Bob Marley's birthday, Purple Rain, and the goings on at Hip Dad</description>
     <link>http://hipdad.cool/hot-sandwich</link>
-    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HotSandwichS1E1-2_6_19.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/Hot Sandwich S1E1 - 2_6_19.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 10 Feb 2019 20:30:00 +0600</pubDate>
     <itunes:author>Hip Dad Radio</itunes:author>
     <itunes:duration>01:02:19</itunes:duration>
@@ -47,21 +47,19 @@
     <guid>http://hipdad.cool/hot-sandwich#s1e1</guid>
 </item>
 <item>
-    <title>Hot Sandwich S1E2 - 2/9/19</title>
+    <title>Hot Sandwich S1E2 - 2/24/19</title>
     <itunes:summary>Spencer Rudnick joins the show. Listen as they talk about music, Hip Dad Events, and life events!</itunes:summary>
     <description>Spencer Rudnick joins the show. Listen as they talk about music, Hip Dad Events, and life events!</description>
     <link>http://hipdad.cool/hot-sandwich</link>
-    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HotSandwichS1E2-2_19_19.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS1E2.mp3" type="audio/mpeg" length="1024"></enclosure>
     <pubDate>Sun, 24 Feb 2019 12:00:00 +0600</pubDate>
     <itunes:author>Hip Dad Radio</itunes:author>
     <itunes:duration>00:53:43</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>http://hipdad.cool/hot-sandwich#s1e2</guid>
 </item>
-
-
 <item>
-    <title>Hot Sandwich S1E3 - 2/9/19</title>
+    <title>Hot Sandwich S1E3 - 3/11/19</title>
     <itunes:summary>Today we have three guests joining the show. Sydney Brockman, Perry Ter Molen, and Nick Pemberton. Listen as they talk about music, Hip Dad Events, and life events!</itunes:summary>
     <description>Today we have three guests joining the show. Sydney Brockman, Perry Ter Molen, and Nick Pemberton. Listen as they talk about music, Hip Dad Events, and life events!</description>
     <link>http://hipdad.cool/hot-sandwich</link>
@@ -72,24 +70,20 @@
     <itunes:explicit>yes</itunes:explicit>
     <guid>http://hipdad.cool/hot-sandwich#s1e3</guid>
 </item>
-
-
 <item>
-    <title>Hot Sandwich S2E1 - 4/1/2019</title>
+    <title>Hot Sandwich S2E1 - 4/1/19</title>
     <itunes:summary>Today we have Matt Geleske joining the show. Listen as they talk about music, Hip Dad Events, and life events!</itunes:summary>
     <description>Today we have Matt Geleske joining the show. Listen as they talk about music, Hip Dad Events, and life events!</description>
     <link>http://hipdad.cool/hot-sandwich</link>
-    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2E1.mp3" type="audio/mpeg" length=""></enclosure>
-    <pubDate>Mon, 1 Apr 2019 23:05:00 +0600</pubDate>
+    <enclosure url="http://hipdad.cool/hot-sandwich/episodes/HSS2E1.mp3" type="audio/mpeg" length="1024"></enclosure>
+    <pubDate>Mon, 1 Apr 2019 12:00:00 +0600</pubDate>
     <itunes:author>Hip Dad Radio</itunes:author>
     <itunes:duration>01:18:13</itunes:duration>
     <itunes:explicit>yes</itunes:explicit>
     <guid>http://hipdad.cool/hot-sandwich#s2e1</guid>
 </item>
-
-
 <item>
-    <title>Hot Sandwich S2E2 - 5/26/19</title>
+    <title>Hot Sandwich S2E2 - 5/28/19</title>
     <itunes:summary>Today we have Adam Duvall joining as our guest today. Listen as we talk about music, Hip Dad Events,life events, and if you'd rather be really small or tall in this new episode of Hot Sandwich!</itunes:summary>
     <description>Today we have Adam Duvall joining as our guest today. Listen as we talk about music, Hip Dad Events,life events, and if you'd rather be really small or tall in this new episode of Hot Sandwich!</description>
     <link>http://hipdad.cool/hot-sandwich</link>
@@ -100,8 +94,6 @@
     <itunes:explicit>yes</itunes:explicit>
     <guid>http://hipdad.cool/hot-sandwich#s2e2</guid>
 </item>
-
-
 <item>
     <title>Hot Sandwich S2E3 - 5/30/19</title>
     <itunes:summary>Today we have Reid Rinaldi joining as our guest today. Listen as we talk about music, catch you guys up on some past and future Hip Dad Events, and as we talked about some upcoming shows in the Chicago area. Also make sure you stay tuned towards the end of the episode for our thought provoking question brought to us by Reid - All in this new episode of Hot Sandwich!</itunes:summary>
